@@ -1,0 +1,26 @@
+.homepage .logo {
+  height: 64px;
+  background: url(./../image/logo.jpg) no-repeat;
+  background-size: cover;
+  cursor: pointer;
+}
+
+.homepage .is-login {
+  margin-right: 15px;
+}
+
+.homepage .is-login .login-in {
+  display: block;
+  width: 40px;
+  height: 40px;
+  background: url(./../image/beauty.jpg) no-repeat center;
+  background-size: contain;
+  border-radius: 20px;
+  margin-top: 12px;
+}
+
+.homepage .is-login .login-out {
+  margin-left: 15px;
+  color: #fff;
+  cursor: pointer;
+}

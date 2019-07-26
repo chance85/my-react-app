@@ -1,0 +1,25 @@
+.login {
+  background-color: rgba(5, 55, 129, 0.5);
+}
+
+.login .login-form {
+  max-width: 300px;
+  margin: 0 auto;
+  margin-top: 20px;
+}
+
+#components-form-demo-normal-login .login-form-forgot {
+  float: right;
+}
+
+.login .ant-btn.login-form-button.ant-btn-primary {
+  width: 100%;
+}
+
+.login {
+  width: 360px;
+  margin: 0 auto;
+  margin-top: 360px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+}
